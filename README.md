@@ -28,7 +28,6 @@ This repository presents a research-driven prototype of a bilingual AI system fo
 * Named Entity Recognition:
 
   * `spaCy` (English)
-  * `avichr/heBERT_NER` (Hebrew)
   * GPT-4-based fact extraction
 * GPT-4 prompt construction using official recommendations
 * Output: Markdown table with `| name | quantity | category |`
